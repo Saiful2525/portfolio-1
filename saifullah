@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio - En. Saifuallah Bin Md. Sarwan</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Portfolio - En. Saifuallah Bin Md. Sarwan</h1>
+    <p>Web Developer | HTML, CSS & JavaScript</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hello, my name is En. Saifuallah Bin Md. Sarwan. I am passionate about web development and have experience with HTML, CSS, and JavaScript.</p>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Sample Project</h3>
+      <p>This is a sample web project created using HTML, CSS, and JavaScript.</p>
+      <button onclick="showMessage()">Click Me</button>
+    </div>
+  </section>
+
+  <footer>
+    <p>Contact: 017-3079427 | fdsstudio583@gmail.com | Damansara Perdana, Petaling Jaya</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
